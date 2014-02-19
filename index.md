@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Welcome to Munch Labs!
+## Welcome to Munch Labs!
 
 There isn't anything to see here yet because Brett is still figuring things out.
 
