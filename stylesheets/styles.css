@@ -101,6 +101,12 @@ header {
   position:fixed;
 }
 
+#left-col {
+  width:270px;
+  float:left;
+  position:fixed;
+}
+
 header ul {
   list-style:none;
   height:40px;
